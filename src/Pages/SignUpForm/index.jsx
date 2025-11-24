@@ -66,10 +66,11 @@ const SignupForm = () => {
     <div className="min-h-screen bg-slate-950 text-white flex items-center justify-center px-6">
       <div className="w-full max-w-2xl bg-slate-900/70 backdrop-blur border border-slate-800 rounded-2xl shadow-2xl p-10">
         <div className="mb-10 text-center">
-          <p className="text-sm uppercase tracking-[0.4em] text-emerald-400">
+          <p className="text-sm uppercase tracking-[0.4em] text-cyan-300">
             Join us
           </p>
-          <h1 className="text-4xl font-semibold mt-3">Create an account</h1>
+          <h1 className="text-4xl font-semibold mt-3 ">Create an account</h1> 
+          
           <p className="text-slate-400 mt-3">
             Enter your details below and become part of the community in a few
             clicks.
@@ -132,7 +133,7 @@ const SignupForm = () => {
           <button
             type="submit"
             disabled={isSubmitting}
-            className="w-full py-3 rounded-xl bg-gradient-to-r from-emerald-400 to-cyan-400 text-slate-950 font-semibold shadow-lg shadow-emerald-500/30 transition hover:opacity-90 disabled:opacity-50"
+            className="w-full py-3 rounded-xl bg-gradient-to-r from-pink-500 to-rose-500 text-slate-950 font-semibold shadow-lg shadow-pink-500/30 transition hover:opacity-90 disabled:opacity-50"
           >
             {isSubmitting ? "Creating account..." : "Sign up"}
           </button>
