@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "7c43",
+      "fullName": "Asthried Wuisan",
+      "email": "asthriedwuisan09@gmail.com",
+      "password": "12345678",
+      "createdAt": "2025-11-24T08:38:25.290Z"
+    },
+    {
+      "id": "58aa",
+      "fullName": "Gerald Sumampouw",
+      "email": "gerald@gmail.com",
+      "password": "11111111",
+      "createdAt": "2025-11-24T08:39:38.183Z"
+    },
+    {
+      "id": "bf7a",
+      "fullName": "aril",
+      "email": "aril@gmail.com",
+      "password": "22222222",
+      "createdAt": "2025-11-24T08:42:11.927Z"
+    },
+    {
+      "id": "9576",
+      "fullName": "maya",
+      "email": "maya@gmail.com",
+      "password": "222222",
+      "createdAt": "2025-11-24T08:48:11.563Z"
+    },
+    {
+      "id": "5e4c",
+      "fullName": "sealine",
+      "email": "sea@gmail.com",
+      "password": "333333",
+      "createdAt": "2025-11-24T08:53:49.871Z"
+    },
+    {
+      "id": "601f",
+      "fullName": "naya",
+      "email": "naya@gmail.com",
+      "password": "555555",
+      "createdAt": "2025-11-24T09:05:29.007Z"
+    }
+  ]
+}
