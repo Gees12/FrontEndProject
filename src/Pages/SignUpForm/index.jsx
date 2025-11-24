@@ -24,7 +24,7 @@ const SignupForm = () => {
     setStatus({ type: "", message: "" });
 
     if (!formData.fullName || !formData.email || !formData.password) {
-      setStatus({ type: "error", message: "Please fill out all fields." });
+      setStatus({ type: "error", message: "Please fill out all fields!" });
       return;
     }
 
